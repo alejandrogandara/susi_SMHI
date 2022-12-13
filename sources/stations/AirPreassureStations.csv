@@ -1,0 +1,407 @@
+Id;Name; Latitude ; Longitude ;Height (m);Active; AirPreasureStation ;link
+188790;Abisko Aut; 68.35 ; 18.82 ;392,303;Yes; 9-188790-Abisko_Aut.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/188790/period/corrected-archive/data.csv
+158990;Abraur; 65.99 ; 18.92 ;368,079;No; 9-158990-Abraur.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/158990/period/corrected-archive/data.csv
+75040;Allgunnen; 57.07 ; 15.97 ;115;No; 9-75040-Allgunnen.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/75040/period/corrected-archive/data.csv
+99090;Almagrundet; 59.16 ; 19.13 ;25;No; 9-99090-Almagrundet.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/99090/period/corrected-archive/data.csv
+178790;Aluokta; 67.31 ; 18.90 ;385;No; 9-178790-Aluokta.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/178790/period/corrected-archive/data.csv
+167710;Arjeplog A; 66.05 ; 17.84 ;430,839;Yes; 9-167710-Arjeplog_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/167710/period/corrected-archive/data.csv
+97390;Arlanda; 59.66 ; 17.95 ;38;No; 9-97390-Arlanda.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/97390/period/corrected-archive/data.csv
+159880;Arvidsjaur A; 65.59 ; 19.26 ;382.45;Yes; 9-159880-Arvidsjaur_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/159880/period/corrected-archive/data.csv
+92400;Arvika; 59.67 ; 12.59 ;77;No; 9-92400-Arvika.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/92400/period/corrected-archive/data.csv
+92410;Arvika A; 59.67 ; 12.64 ;65,758;Yes; 9-92410-Arvika_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/92410/period/corrected-archive/data.csv
+94370;Asphyttan; 59.61 ; 14.19 ;130;No; 9-94370-Asphyttan.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/94370/period/corrected-archive/data.csv
+84340;Ax steel Mo; 58.57 ; 14.56 ;88.5;Yes; 9-84340-Ax_steel_Mo.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/84340/period/corrected-archive/data.csv
+105550;Reverse; 60.92 ; 15.11 ;230;No; 9-105550-Reverse.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/105550/period/corrected-archive/data.csv
+97260;Barkarby; 59.42 ; 17.88 ;17;No; 9-97260-Barkarby.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/97260/period/corrected-archive/data.csv
+62180;Barkåkra; 56.30 ; 12.84 ;18;Yes; 9-62180-Barkåkra.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/62180/period/corrected-archive/data.csv
+82540;Bastorp; 58.90 ; 12.04 ;150;No; 9-82540-Bastorp.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/82540/period/corrected-archive/data.csv
+98040;Berga Mo; 59.07 ; 18.12 ;4.3;Yes; 9-98040-Berga_Mo.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/98040/period/corrected-archive/data.csv
+116650;Bjuråker; 61.85 ; 16.58 ;66;No; 9-116650-Bjuråker.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/116650/period/corrected-archive/data.csv
+151290;Bjuröklubb; 64.48 ; 21.58 ;36;No; 9-151290-Bjuröklubb.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/151290/period/corrected-archive/data.csv
+151280;Bjuröklubb A; 64.48 ; 21.58 ;35.41;Yes; 9-151280-Bjuröklubb_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/151280/period/corrected-archive/data.csv
+53650;Björka; 55.70 ; 13.63 ;32;No; 9-53650-Björka.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/53650/period/corrected-archive/data.csv
+142030;Björkede; 64.04 ; 12.94 ;451;No; 9-142030-Björkede.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/142030/period/corrected-archive/data.csv
+107040;Björklinge; 60.05 ; 17.57 ;31;No; 9-107040-Björklinge.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/107040/period/corrected-archive/data.csv
+83640;Björnegården; 58.52 ; 13.07 ;75;No; 9-83640-Björnegården.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/83640/period/corrected-archive/data.csv
+92170;Flower forest; 59.29 ; 12.05 ;110;No; 9-92170-Flower_forest.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/92170/period/corrected-archive/data.csv
+92130;Blomskog A; 59.22 ; 12.08 ;169,645;Yes; 9-92130-Blomskog_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/92130/period/corrected-archive/data.csv
+161940;Boden Mo; 65.81 ; 21.64 ;25.2;Yes; 9-161940-Boden_Mo.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/161940/period/corrected-archive/data.csv
+83170;Borgunda; 58.29 ; 13.80 ;181;No; 9-83170-Borgunda.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/83170/period/corrected-archive/data.csv
+105260;Borlänge Airport; 60.43 ; 15.51 ;152;Yes; 9-105260-Borlänge_Airport.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/105260/period/corrected-archive/data.csv
+72450;Borås; 57.76 ; 12.95 ;135;Yes; 9-72450-Borås.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/72450/period/corrected-archive/data.csv
+127130;Brämön A; 62.22 ; 17.74 ;18.13;Yes; 9-127130-Brämön_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/127130/period/corrected-archive/data.csv
+157870;Buresjön A; 65.56 ; 17.86 ;394.05;Yes; 9-157870-Buresjön_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/157870/period/corrected-archive/data.csv
+84620;Bällefors; 58.58 ; 14.12 ;90;No; 9-84620-Bällefors.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/84620/period/corrected-archive/data.csv
+94390;Dayless A; 59.66 ; 14.18 ;133,077;Yes; 9-94390-Dayless_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/94390/period/corrected-archive/data.csv
+73430;Dalsjöfors; 57.72 ; 13.12 ;257;No; 9-73430-Dalsjöfors.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/73430/period/corrected-archive/data.csv
+107120;Dannemora; 60.20 ; 17.90 ;41;No; 9-107120-Dannemora.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/107120/period/corrected-archive/data.csv
+116480;Delsbo; 61.79 ; 16.55 ;88;No; 9-116480-Delsbo.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/116480/period/corrected-archive/data.csv
+116490;Delsbo A; 61.83 ; 16.54 ;70,667;Yes; 9-116490-Delsbo_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/116490/period/corrected-archive/data.csv
+105640;Domnarvet; 60.50 ; 15.45 ;128;No; 9-105640-Domnarvet.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/105640/period/corrected-archive/data.csv
+96120;Dunker; 59.19 ; 16.91 ;32;No; 9-96120-Dunker.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/96120/period/corrected-archive/data.csv
+132590;Edevik; 63.98 ; 12.87 ;425;Yes; 9-132590-Edevik.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/132590/period/corrected-archive/data.csv
+115230;Edsbyn; 61.38 ; 15.84 ;161;No; 9-115230-Edsbyn.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/115230/period/corrected-archive/data.csv
+115220;Edsbyn A; 61.36 ; 15.71 ;183,648;Yes; 9-115220-Edsbyn_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/115220/period/corrected-archive/data.csv
+107440;Eggegrund; 60.73 ; 17.57 ;5;Nej; 9-107440-Eggegrund.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/107440/period/corrected-archive/data.csv
+74380;Eksjö I 12; 57.67 ; 14.98 ;224;Nej; 9-74380-Eksjö_I_12.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/74380/period/corrected-archive/data.csv
+97370;Enköping Mo; 59.65 ; 17.12 ;24.6;Ja; 9-97370-Enköping_Mo.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/97370/period/corrected-archive/data.csv
+96190;Eskilstuna A; 59.38 ; 16.45 ;12.577;Ja; 9-96190-Eskilstuna_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/96190/period/corrected-archive/data.csv
+181970;Esrange; 67.89 ; 21.07 ;330;Nej; 9-181970-Esrange.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/181970/period/corrected-archive/data.csv
+52230;Falsterbo; 55.38 ; 12.82 ;1.541;Ja; 9-52230-Falsterbo.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/52230/period/corrected-archive/data.csv
+52240;Falsterbo A; 55.38 ; 12.82 ;1.575;Ja; 9-52240-Falsterbo_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/52240/period/corrected-archive/data.csv
+105370;Falun; 60.62 ; 15.62 ;160;Nej; 9-105370-Falun.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/105370/period/corrected-archive/data.csv
+162800;Farstugrunden Aut; 65.33 ; 22.75 ;1;Nej; 9-162800-Farstugrunden_Aut.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/162800/period/corrected-archive/data.csv
+95320;Fellingsbro-Finnåker; 59.53 ; 15.59 ;51;Nej; 9-95320-Fellingsbro-Finnåker.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/95320/period/corrected-archive/data.csv
+107140;Film A; 60.24 ; 17.90 ;33.381;Ja; 9-107140-Film_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/107140/period/corrected-archive/data.csv
+107130;Films Kyrkby; 60.24 ; 17.91 ;39;Nej; 9-107130-Films_Kyrkby.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/107130/period/corrected-archive/data.csv
+125020;Finneby; 62.04 ; 15.47 ;259;Nej; 9-125020-Finneby.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/125020/period/corrected-archive/data.csv
+118610;Finngrundets Fyrskepp; 61.07 ; 18.68 ;5;Nej; 9-118610-Finngrundets_Fyrskepp.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/118610/period/corrected-archive/data.csv
+85410;Finspång; 58.71 ; 15.82 ;41;Nej; 9-85410-Finspång.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/85410/period/corrected-archive/data.csv
+122360;Fjällnäs; 62.58 ; 12.22 ;780;Nej; 9-122360-Fjällnäs.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/122360/period/corrected-archive/data.csv
+96040;Floda A; 59.06 ; 16.39 ;31.337;Ja; 9-96040-Floda_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/96040/period/corrected-archive/data.csv
+112510;Flötningen; 61.85 ; 12.27 ;670;Nej; 9-112510-Flötningen.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/112510/period/corrected-archive/data.csv
+106100;Folkärna; 60.17 ; 16.31 ;68;Nej; 9-106100-Folkärna.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/106100/period/corrected-archive/data.csv
+148050;Fredrika; 64.08 ; 18.42 ;300;Nej; 9-148050-Fredrika.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/148050/period/corrected-archive/data.csv
+126300;Fränsta 2; 62.52 ; 16.21 ;110;Nej; 9-126300-Fränsta_2.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/126300/period/corrected-archive/data.csv
+134110;Frösön; 63.20 ; 14.49 ;376;Ja; 9-134110-Frösön.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/134110/period/corrected-archive/data.csv
+151550;Furuögrund; 64.91 ; 21.23 ;10;Nej; 9-151550-Furuögrund.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/151550/period/corrected-archive/data.csv
+84390;Fägre; 58.65 ; 14.13 ;95;Nej; 9-84390-Fägre.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/84390/period/corrected-archive/data.csv
+160740;Fällfors; 65.13 ; 20.79 ;195;Nej; 9-160740-Fällfors.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/160740/period/corrected-archive/data.csv
+160750;Fällfors Mo; 65.11 ; 20.77 ;195;Nej; 9-160750-Fällfors_Mo.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/160750/period/corrected-archive/data.csv
+79580;Fårö; 57.90 ; 19.16 ;8;Nej; 9-79580-Fårö.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/79580/period/corrected-archive/data.csv
+79520;Fårösund; 57.85 ; 19.01 ;27;Nej; 9-79520-Fårösund.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/79520/period/corrected-archive/data.csv
+134460;Föllinge-Vägskälet; 63.76 ; 14.43 ;475;Nej; 9-134460-Föllinge-Vägskälet.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/134460/period/corrected-archive/data.csv
+62550;Glommen; 56.93 ; 12.36 ;6;Nej; 9-62550-Glommen.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/62550/period/corrected-archive/data.csv
+89240;Gotska Sandön; 58.39 ; 19.20 ;12;Nej; 9-89240-Gotska_Sandön.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/89240/period/corrected-archive/data.csv
+89230;Gotska Sandön A; 58.39 ; 19.19 ;15.911;Ja; 9-89230-Gotska_Sandön_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/89230/period/corrected-archive/data.csv
+108300;Grundkallen; 60.50 ; 18.87 ;23;Nej; 9-108300-Grundkallen.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/108300/period/corrected-archive/data.csv
+84610;Gränna; 58.03 ; 14.47 ;130;Nej; 9-84610-Gränna.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/84610/period/corrected-archive/data.csv
+145130;Gubbhögen A; 64.22 ; 15.55 ;310.221;Ja; 9-145130-Gubbhögen_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/145130/period/corrected-archive/data.csv
+147570;Gunnarn; 65.01 ; 17.71 ;280;Nej; 9-147570-Gunnarn.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/147570/period/corrected-archive/data.csv
+147560;Gunnarn A; 65.01 ; 17.70 ;275.491;Ja; 9-147560-Gunnarn_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/147560/period/corrected-archive/data.csv
+87360;Gustaf Dalen Aut; 58.59 ; 17.47 ;25;Nej; 9-87360-Gustaf_Dalen_Aut.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/87360/period/corrected-archive/data.csv
+103090;Gustavsfors; 60.15 ; 13.80 ;190;Ja; 9-103090-Gustavsfors.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/103090/period/corrected-archive/data.csv
+103100;Gustavsfors A; 60.15 ; 13.80 ;187.153;Ja; 9-103100-Gustavsfors_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/103100/period/corrected-archive/data.csv
+144300;Gäddede; 64.50 ; 14.16 ;328;Nej; 9-144300-Gäddede.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/144300/period/corrected-archive/data.csv
+144310;Gäddede A; 64.50 ; 14.22 ;553.025;Ja; 9-144310-Gäddede_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/144310/period/corrected-archive/data.csv
+180760;Gällivare A; 67.14 ; 20.64 ;358.975;Ja; 9-180760-Gällivare_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/180760/period/corrected-archive/data.csv
+180740;Gällivare Flygplats; 67.14 ; 20.81 ;312;Nej; 9-180740-Gällivare_Flygplats.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/180740/period/corrected-archive/data.csv
+107400;Gävle; 60.65 ; 17.17 ;16;Nej; 9-107400-Gävle.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/107400/period/corrected-archive/data.csv
+84520;Gårdsjö A; 58.88 ; 14.39 ;210.675;Ja; 9-84520-Gårdsjö_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/84520/period/corrected-archive/data.csv
+71420;Göteborg A; 57.72 ; 11.99 ;3.038;Ja; 9-71420-Göteborg_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/71420/period/corrected-archive/data.csv
+74180;Hagshult Mo; 57.29 ; 14.14 ;169.6;Ja; 9-74180-Hagshult_Mo.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/74180/period/corrected-archive/data.csv
+135460;Hallhåxåsen A; 63.77 ; 15.33 ;375.391;Ja; 9-135460-Hallhåxåsen_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/135460/period/corrected-archive/data.csv
+135440;Hallviken; 63.73 ; 15.50 ;337;Nej; 9-135440-Hallviken.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/135440/period/corrected-archive/data.csv
+62400;Halmstad; 56.67 ; 12.92 ;10;Nej; 9-62400-Halmstad.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/62400/period/corrected-archive/data.csv
+62410;Halmstad flygplats; 56.68 ; 12.82 ;31;Ja; 9-62410-Halmstad_flygplats.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/62410/period/corrected-archive/data.csv
+62420;Halmstad flygplats; 56.67 ; 12.85 ;4;Nej; 9-62420-Halmstad_flygplats.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/62420/period/corrected-archive/data.csv
+114410;Hamra A; 61.66 ; 14.99 ;453.588;Ja; 9-114410-Hamra_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/114410/period/corrected-archive/data.csv
+64020;Hanö; 56.01 ; 14.85 ;55;Nej; 9-64020-Hanö.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/64020/period/corrected-archive/data.csv
+163950;Haparanda; 65.84 ; 24.11 ;5;Nej; 9-163950-Haparanda.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/163950/period/corrected-archive/data.csv
+163960;Haparanda A; 65.82 ; 24.11 ;13.243;Ja; 9-163960-Haparanda_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/163960/period/corrected-archive/data.csv
+161780;Haraholmen; 65.24 ; 21.63 ;4;Nej; 9-161780-Haraholmen.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/161780/period/corrected-archive/data.csv
+87150;Harstena; 58.25 ; 17.01 ;5;Nej; 9-87150-Harstena.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/87150/period/corrected-archive/data.csv
+87140;Harstena A; 58.25 ; 17.01 ;14;Ja; 9-87140-Harstena_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/87140/period/corrected-archive/data.csv
+161650;Hednoret; 65.83 ; 21.55 ;27;Nej; 9-161650-Hednoret.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/161650/period/corrected-archive/data.csv
+62030;Helsingborg; 56.04 ; 12.69 ;5;Nej; 9-62030-Helsingborg.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/62030/period/corrected-archive/data.csv
+62040;Helsingborg A; 56.03 ; 12.77 ;43;Ja; 9-62040-Helsingborg_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/62040/period/corrected-archive/data.csv
+155940;Hemavan; 65.82 ; 15.09 ;482.03;Nej; 9-155940-Hemavan.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/155940/period/corrected-archive/data.csv
+155970;Hemavan Flygplats; 65.81 ; 15.09 ;458;Ja; 9-155970-Hemavan_Flygplats.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/155970/period/corrected-archive/data.csv
+138390;Hemling A; 63.65 ; 18.55 ;182.186;Ja; 9-138390-Hemling_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/138390/period/corrected-archive/data.csv
+78250;Herrvik; 57.42 ; 18.92 ;5;Nej; 9-78250-Herrvik.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/78250/period/corrected-archive/data.csv
+73230;Hestra; 57.39 ; 13.53 ;285;Nej; 9-73230-Hestra.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/73230/period/corrected-archive/data.csv
+68550;Hoburg; 56.92 ; 18.15 ;38;Nej; 9-68550-Hoburg.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/68550/period/corrected-archive/data.csv
+68560;Hoburg A; 56.92 ; 18.15 ;34.118;Ja; 9-68560-Hoburg_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/68560/period/corrected-archive/data.csv
+140360;Holmögadd A; 63.59 ; 20.76 ;6;Nej; 9-140360-Holmögadd_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/140360/period/corrected-archive/data.csv
+140460;Holmön A; 63.81 ; 20.86 ;6.535;Ja; 9-140460-Holmön_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/140460/period/corrected-archive/data.csv
+75520;Horn A; 57.89 ; 15.86 ;89.822;Ja; 9-75520-Horn_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/75520/period/corrected-archive/data.csv
+146050;Hoting A; 64.09 ; 16.24 ;241.55;Ja; 9-146050-Hoting_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/146050/period/corrected-archive/data.csv
+75410;Hultsfred; 57.49 ; 15.85 ;109;Nej; 9-75410-Hultsfred.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/75410/period/corrected-archive/data.csv
+125450;Hunge; 62.75 ; 15.10 ;342;Nej; 9-125450-Hunge.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/125450/period/corrected-archive/data.csv
+98290;Husarö; 59.51 ; 18.84 ;10;Nej; 9-98290-Husarö.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/98290/period/corrected-archive/data.csv
+88590;Huvudskär; 58.96 ; 18.57 ;5;Nej; 9-88590-Huvudskär.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/88590/period/corrected-archive/data.csv
+89560;Huvudskär Ost A; 58.93 ; 19.18 ;4;Nej; 9-89560-Huvudskär_Ost_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/89560/period/corrected-archive/data.csv
+149160;Hällnäs-Lund; 64.27 ; 19.63 ;181;Nej; 9-149160-Hällnäs-Lund.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/149160/period/corrected-archive/data.csv
+83190;Hällum A; 58.32 ; 13.04 ;70.071;Ja; 9-83190-Hällum_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/83190/period/corrected-archive/data.csv
+128370;Härnö; 62.62 ; 18.06 ;10;Nej; 9-128370-Härnö.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/128370/period/corrected-archive/data.csv
+127380;Härnösand; 62.63 ; 17.95 ;8;Nej; 9-127380-Härnösand.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/127380/period/corrected-archive/data.csv
+63160;Hästveda Mo; 56.28 ; 13.94 ;102.5;Ja; 9-63160-Hästveda_Mo.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/63160/period/corrected-archive/data.csv
+91520;Hångstad; 59.86 ; 11.97 ;130;Nej; 9-91520-Hångstad.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/91520/period/corrected-archive/data.csv
+145340;Högland; 64.57 ; 15.92 ;401;Nej; 9-145340-Högland.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/145340/period/corrected-archive/data.csv
+83610;Högstena; 58.23 ; 13.72 ;211;Nej; 9-83610-Högstena.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/83610/period/corrected-archive/data.csv
+53530;Hörby A; 55.86 ; 13.67 ;113.388;Nej; 9-53530-Hörby_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/53530/period/corrected-archive/data.csv
+147270;Idvattnet; 64.45 ; 17.08 ;352;Nej; 9-147270-Idvattnet.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/147270/period/corrected-archive/data.csv
+169880;Jokkmokk; 66.63 ; 19.64 ;260;Nej; 9-169880-Jokkmokk.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/169880/period/corrected-archive/data.csv
+170860;Jokkmokk Flygplats Mo; 66.49 ; 20.14 ;275.4;Ja; 9-170860-Jokkmokk_Flygplats_Mo.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/170860/period/corrected-archive/data.csv
+136420;Junsele; 63.68 ; 16.95 ;215;Nej; 9-136420-Junsele.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/136420/period/corrected-archive/data.csv
+136410;Junsele A; 63.68 ; 16.95 ;218.766;Ja; 9-136410-Junsele_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/136410/period/corrected-archive/data.csv
+139260;Järnäsklubb A; 63.44 ; 19.67 ;5.928;Ja; 9-139260-Järnäsklubb_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/139260/period/corrected-archive/data.csv
+74470;Jönköping; 57.77 ; 14.18 ;98;Nej; 9-74470-Jönköping.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/74470/period/corrected-archive/data.csv
+74460;Jönköpings flygplats; 57.75 ; 14.07 ;226;Ja; 9-74460-Jönköpings_flygplats.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/74460/period/corrected-archive/data.csv
+74450;Jönköpings gamla flygplats; 57.75 ; 14.17 ;98;Nej; 9-74450-Jönköpings_gamla_flygplats.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/74450/period/corrected-archive/data.csv
+163940;Kalix; 65.85 ; 23.20 ;6;Nej; 9-163940-Kalix.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/163940/period/corrected-archive/data.csv
+66430;Kalmar; 56.73 ; 16.29 ;15;Nej; 9-66430-Kalmar.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/66430/period/corrected-archive/data.csv
+66420;Kalmar flygplats; 56.68 ; 16.29 ;6;Ja; 9-66420-Kalmar_flygplats.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/66420/period/corrected-archive/data.csv
+168910;Karats; 66.69 ; 18.81 ;414;Nej; 9-168910-Karats.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/168910/period/corrected-archive/data.csv
+192830;Karesuando; 68.44 ; 22.45 ;330;Nej; 9-192830-Karesuando.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/192830/period/corrected-archive/data.csv
+192840;Karesuando A; 68.44 ; 22.44 ;329.68;Ja; 9-192840-Karesuando_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/192840/period/corrected-archive/data.csv
+84310;Karlsborg Mo; 58.51 ; 14.51 ;94.5;Ja; 9-84310-Karlsborg_Mo.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/84310/period/corrected-archive/data.csv
+65090;Karlskrona-Söderstjerna Mo; 56.15 ; 15.59 ;2.4;Ja; 9-65090-Karlskrona-Söderstjerna_Mo.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/65090/period/corrected-archive/data.csv
+93220;Karlstad Flygplats; 59.44 ; 13.34 ;107;Ja; 9-93220-Karlstad_Flygplats.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/93220/period/corrected-archive/data.csv
+188820;Katterjåkk; 68.42 ; 18.17 ;513.911;Ja; 9-188820-Katterjåkk.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/188820/period/corrected-archive/data.csv
+188850;Katterjåkk A; 68.42 ; 18.17 ;514.248;Ja; 9-188850-Katterjåkk_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/188850/period/corrected-archive/data.csv
+106160;Kerstinbo A; 60.27 ; 16.97 ;55.695;Ja; 9-106160-Kerstinbo_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/106160/period/corrected-archive/data.csv
+85460;Kettstaka A; 58.72 ; 15.03 ;224.876;Ja; 9-85460-Kettstaka_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/85460/period/corrected-archive/data.csv
+94190;Kilsbergen-Suttarboda A; 59.30 ; 14.90 ;218.353;Ja; 9-94190-Kilsbergen-Suttarboda_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/94190/period/corrected-archive/data.csv
+180960;Kiruna; 67.85 ; 20.23 ;505;Nej; 9-180960-Kiruna.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/180960/period/corrected-archive/data.csv
+180940;Kiruna Flygplats; 67.83 ; 20.34 ;459;Ja; 9-180940-Kiruna_Flygplats.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/180940/period/corrected-archive/data.csv
+154720;Klimpfjäll; 65.06 ; 14.79 ;594;Nej; 9-154720-Klimpfjäll.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/154720/period/corrected-archive/data.csv
+95540;Kloten A; 59.87 ; 15.25 ;283.21;Ja; 9-95540-Kloten_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/95540/period/corrected-archive/data.csv
+150640;Klutmark; 64.75 ; 20.63 ;80;Nej; 9-150640-Klutmark.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/150640/period/corrected-archive/data.csv
+124320;Klövsjö; 62.53 ; 14.20 ;549;Nej; 9-124320-Klövsjö.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/124320/period/corrected-archive/data.csv
+124300;Klövsjöhöjden A; 62.50 ; 14.15 ;802.503;Ja; 9-124300-Klövsjöhöjden_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/124300/period/corrected-archive/data.csv
+86420;Kolmården-Strömsfors A; 58.69 ; 16.31 ;153.613;Ja; 9-86420-Kolmården-Strömsfors_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/86420/period/corrected-archive/data.csv
+182720;Kompelusvaara; 67.09 ; 22.22 ;263;Nej; 9-182720-Kompelusvaara.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/182720/period/corrected-archive/data.csv
+173960;Korpilombolo M; 66.85 ; 23.06 ;178;Nej; 9-173960-Korpilombolo_M.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/173960/period/corrected-archive/data.csv
+133500;Korsvattnet A; 63.84 ; 13.50 ;716.605;Ja; 9-133500-Korsvattnet_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/133500/period/corrected-archive/data.csv
+65510;Kosta Mo; 56.84 ; 15.47 ;230;Ja; 9-65510-Kosta_Mo.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/65510/period/corrected-archive/data.csv
+137040;Kramfors-Gistgårdsön; 63.05 ; 17.77 ;5;Nej; 9-137040-Kramfors-Gistgårdsön.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/137040/period/corrected-archive/data.csv
+64030;Kristianstad; 56.03 ; 14.18 ;3;Nej; 9-64030-Kristianstad.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/64030/period/corrected-archive/data.csv
+54550;Kristianstad Everöd; 55.92 ; 14.08 ;17;Nej; 9-54550-Kristianstad_Everöd.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/54550/period/corrected-archive/data.csv
+136090;Krångede A; 63.15 ; 16.17 ;183.123;Ja; 9-136090-Krångede_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/136090/period/corrected-archive/data.csv
+117430;Kuggören A; 61.70 ; 17.52 ;8.568;Ja; 9-117430-Kuggören_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/117430/period/corrected-archive/data.csv
+62190;Kullen; 56.30 ; 12.45 ;72;Nej; 9-62190-Kullen.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/62190/period/corrected-archive/data.csv
+85390;Kvarn Mo; 58.65 ; 15.43 ;71.9;Ja; 9-85390-Kvarn_Mo.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/85390/period/corrected-archive/data.csv
+167980;Kvikkjokk-Årrenjarka; 66.89 ; 18.02 ;314;Nej; 9-167980-Kvikkjokk-Årrenjarka.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/167980/period/corrected-archive/data.csv
+167990;Kvikkjokk-Årrenjarka A; 66.89 ; 18.02 ;314.692;Ja; 9-167990-Kvikkjokk-Årrenjarka_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/167990/period/corrected-archive/data.csv
+83660;Kvänum; 58.32 ; 13.15 ;75;Nej; 9-83660-Kvänum.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/83660/period/corrected-archive/data.csv
+85650;Kärnskogen; 58.85 ; 15.28 ;108;Nej; 9-85650-Kärnskogen.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/85650/period/corrected-archive/data.csv
+71140;Laesö Ost A; 57.18 ; 11.53 ;4;Nej; 9-71140-Laesö_Ost_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/71140/period/corrected-archive/data.csv
+182930;Lainio; 67.76 ; 22.35 ;315;Ja; 9-182930-Lainio.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/182930/period/corrected-archive/data.csv
+171790;Lakaträsk A; 66.28 ; 21.13 ;185.031;Ja; 9-171790-Lakaträsk_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/171790/period/corrected-archive/data.csv
+87450;Landsort; 58.74 ; 17.87 ;13;Nej; 9-87450-Landsort.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/87450/period/corrected-archive/data.csv
+87440;Landsort A; 58.74 ; 17.87 ;17.484;Ja; 9-87440-Landsort_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/87440/period/corrected-archive/data.csv
+72420;Landvetter Flygplats; 57.68 ; 12.29 ;154;Ja; 9-72420-Landvetter_Flygplats.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/72420/period/corrected-archive/data.csv
+192710;Lannavaara; 68.05 ; 21.98 ;630;Nej; 9-192710-Lannavaara.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/192710/period/corrected-archive/data.csv
+126310;Ljungaverk; 62.49 ; 16.07 ;85;Nej; 9-126310-Ljungaverk.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/126310/period/corrected-archive/data.csv
+63500;Ljungby; 56.83 ; 13.95 ;145;Nej; 9-63500-Ljungby.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/63500/period/corrected-archive/data.csv
+63050;Ljungbyhed; 56.08 ; 13.23 ;43;Nej; 9-63050-Ljungbyhed.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/63050/period/corrected-archive/data.csv
+123070;Lofsdalen; 62.11 ; 13.28 ;605;Nej; 9-123070-Lofsdalen.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/123070/period/corrected-archive/data.csv
+162860;Luleå Flygplats; 65.54 ; 22.12 ;19.9;Ja; 9-162860-Luleå_Flygplats.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/162860/period/corrected-archive/data.csv
+53430;Lund; 55.71 ; 13.20 ;50;Nej; 9-53430-Lund.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/53430/period/corrected-archive/data.csv
+83460;Lurö; 58.79 ; 13.25 ;55;Nej; 9-83460-Lurö.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/83460/period/corrected-archive/data.csv
+148330;Lycksele A; 64.55 ; 18.71 ;210.07;Ja; 9-148330-Lycksele_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/148330/period/corrected-archive/data.csv
+102190;Lämbacken; 60.31 ; 12.70 ;177;Nej; 9-102190-Lämbacken.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/102190/period/corrected-archive/data.csv
+127140;Lörudden; 62.23 ; 17.66 ;2;Nej; 9-127140-Lörudden.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/127140/period/corrected-archive/data.csv
+53220;Maglarp Aut; 55.38 ; 13.06 ;17;Nej; 9-53220-Maglarp_Aut.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/53220/period/corrected-archive/data.csv
+85040;Malexander; 58.07 ; 15.24 ;195;Nej; 9-85040-Malexander.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/85040/period/corrected-archive/data.csv
+180750;Malmberget; 67.17 ; 20.67 ;373;Nej; 9-180750-Malmberget.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/180750/period/corrected-archive/data.csv
+85240;Malmslätt; 58.40 ; 15.52 ;94;Ja; 9-85240-Malmslätt.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/85240/period/corrected-archive/data.csv
+53360;Malmö; 55.58 ; 13.01 ;13;Nej; 9-53360-Malmö.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/53360/period/corrected-archive/data.csv
+103410;Malung; 60.68 ; 13.70 ;308;Nej; 9-103410-Malung.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/103410/period/corrected-archive/data.csv
+103420;Malung A; 60.68 ; 13.71 ;302.583;Ja; 9-103420-Malung_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/103420/period/corrected-archive/data.csv
+85520;Mariedamm; 58.85 ; 15.16 ;132;Nej; 9-85520-Mariedamm.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/85520/period/corrected-archive/data.csv
+63280;Markaryd; 56.46 ; 13.66 ;118;Nej; 9-63280-Markaryd.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/63280/period/corrected-archive/data.csv
+133180;Mattmar V; 63.31 ; 13.88 ;360;Nej; 9-133180-Mattmar_V.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/133180/period/corrected-archive/data.csv
+166910;Mierkenis A; 66.68 ; 16.11 ;613.982;Ja; 9-166910-Mierkenis_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/166910/period/corrected-archive/data.csv
+104300;Mockfjärd; 60.51 ; 14.96 ;192;Nej; 9-104300-Mockfjärd.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/104300/period/corrected-archive/data.csv
+93360;Molkom; 59.62 ; 13.75 ;93;Nej; 9-93360-Molkom.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/93360/period/corrected-archive/data.csv
+73570;Molla; 57.94 ; 13.07 ;190;Nej; 9-73570-Molla.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/73570/period/corrected-archive/data.csv
+104580;Mora A; 60.96 ; 14.50 ;195.417;Ja; 9-104580-Mora_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/104580/period/corrected-archive/data.csv
+183980;Muodoslompolo; 67.94 ; 23.44 ;240;Nej; 9-183980-Muodoslompolo.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/183980/period/corrected-archive/data.csv
+160790;Myrheden; 65.30 ; 20.21 ;250;Nej; 9-160790-Myrheden.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/160790/period/corrected-archive/data.csv
+75240;Målilla; 57.40 ; 15.83 ;100;Nej; 9-75240-Målilla.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/75240/period/corrected-archive/data.csv
+75250;Målilla A; 57.38 ; 15.80 ;95.667;Ja; 9-75250-Målilla_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/75250/period/corrected-archive/data.csv
+81060;Måseskär; 58.09 ; 11.33 ;14;Nej; 9-81060-Måseskär.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/81060/period/corrected-archive/data.csv
+133190;Mörsil; 63.32 ; 13.65 ;400;Nej; 9-133190-Mörsil.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/133190/period/corrected-archive/data.csv
+191900;Naimakka; 68.68 ; 21.53 ;403;Nej; 9-191900-Naimakka.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/191900/period/corrected-archive/data.csv
+172680;Naisheden; 66.53 ; 22.37 ;95;Nej; 9-172680-Naisheden.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/172680/period/corrected-archive/data.csv
+170930;Nattavaara A; 66.75 ; 20.92 ;327.631;Ja; 9-170930-Nattavaara_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/170930/period/corrected-archive/data.csv
+171920;Nattavaara by; 66.76 ; 21.05 ;350;Nej; 9-171920-Nattavaara_by.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/171920/period/corrected-archive/data.csv
+71190;Nidingen A; 57.30 ; 11.90 ;3.785;Ja; 9-71190-Nidingen_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/71190/period/corrected-archive/data.csv
+179950;Nikkaluokta; 67.85 ; 19.02 ;470;Nej; 9-179950-Nikkaluokta.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/179950/period/corrected-archive/data.csv
+179960;Nikkaluokta A; 67.85 ; 19.02 ;466.765;Ja; 9-179960-Nikkaluokta_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/179960/period/corrected-archive/data.csv
+81540;Nordkoster A; 58.89 ; 11.00 ;33.362;Ja; 9-81540-Nordkoster_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/81540/period/corrected-archive/data.csv
+139340;Nordmaling; 63.57 ; 19.49 ;4;Nej; 9-139340-Nordmaling.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/139340/period/corrected-archive/data.csv
+86360;Norrköping; 58.61 ; 16.21 ;3;Nej; 9-86360-Norrköping.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/86360/period/corrected-archive/data.csv
+86350;Norrköping-Kungsängen; 58.58 ; 16.24 ;5;Nej; 9-86350-Norrköping-Kungsängen.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/86350/period/corrected-archive/data.csv
+86340;Norrköping-SMHI; 58.58 ; 16.15 ;40.334;Ja; 9-86340-Norrköping-SMHI.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/86340/period/corrected-archive/data.csv
+86370;Norrköping-Sörby; 58.61 ; 16.12 ;27;Nej; 9-86370-Norrköping-Sörby.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/86370/period/corrected-archive/data.csv
+98460;Norrtälje 2; 59.75 ; 18.71 ;25;Nej; 9-98460-Norrtälje_2.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/98460/period/corrected-archive/data.csv
+145260;Norråker; 64.43 ; 15.63 ;344;Nej; 9-145260-Norråker.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/145260/period/corrected-archive/data.csv
+149540;Norsjö; 64.91 ; 19.47 ;296;Nej; 9-149540-Norsjö.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/149540/period/corrected-archive/data.csv
+149560;Norsjö A; 64.93 ; 19.37 ;309.576;Ja; 9-149560-Norsjö_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/149560/period/corrected-archive/data.csv
+86480;Nyköpings Flygplats; 58.78 ; 16.92 ;42;Nej; 9-86480-Nyköpings_Flygplats.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/86480/period/corrected-archive/data.csv
+74390;Nässjö; 57.64 ; 14.69 ;305;Nej; 9-74390-Nässjö.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/74390/period/corrected-archive/data.csv
+78040;Näsudden Aut; 57.07 ; 18.22 ;5;Nej; 9-78040-Näsudden_Aut.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/78040/period/corrected-archive/data.csv
+134610;Ope; 63.20 ; 14.78 ;350;Nej; 9-134610-Ope.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/134610/period/corrected-archive/data.csv
+107220;Orrskog; 60.38 ; 17.42 ;35;Nej; 9-107220-Orrskog.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/107220/period/corrected-archive/data.csv
+63220;Osby; 56.36 ; 14.00 ;83;Nej; 9-63220-Osby.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/63220/period/corrected-archive/data.csv
+172940;Paharova A; 66.81 ; 22.33 ;227.643;Ja; 9-172940-Paharova_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/172940/period/corrected-archive/data.csv
+183760;Pajala; 67.21 ; 23.39 ;168;Nej; 9-183760-Pajala.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/183760/period/corrected-archive/data.csv
+183750;Pajala A; 67.20 ; 23.39 ;163.774;Ja; 9-183750-Pajala_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/183750/period/corrected-archive/data.csv
+182910;Parkalompolo A; 67.73 ; 22.82 ;312.183;Ja; 9-182910-Parkalompolo_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/182910/period/corrected-archive/data.csv
+161710;Pite-Rönnskär A; 65.03 ; 21.56 ;4.878;Ja; 9-161710-Pite-Rönnskär_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/161710/period/corrected-archive/data.csv
+161790;Piteå; 65.32 ; 21.49 ;6;Nej; 9-161790-Piteå.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/161790/period/corrected-archive/data.csv
+161770;Pitsund; 65.23 ; 21.52 ;8;Nej; 9-161770-Pitsund.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/161770/period/corrected-archive/data.csv
+171820;Pålkem M; 66.39 ; 21.62 ;261;Nej; 9-171820-Pålkem_M.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/171820/period/corrected-archive/data.csv
+169930;Randijaur; 66.76 ; 19.32 ;290;Nej; 9-169930-Randijaur.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/169930/period/corrected-archive/data.csv
+95490;Riddarhyttan; 59.81 ; 15.56 ;155;Nej; 9-95490-Riddarhyttan.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/95490/period/corrected-archive/data.csv
+188830;Riksgränsen; 68.43 ; 18.13 ;508;Nej; 9-188830-Riksgränsen.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/188830/period/corrected-archive/data.csv
+97100;Riksten; 59.18 ; 17.92 ;54;Nej; 9-97100-Riksten.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/97100/period/corrected-archive/data.csv
+64600;Rinkaby; 55.98 ; 14.27 ;7;Nej; 9-64600-Rinkaby.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/64600/period/corrected-archive/data.csv
+147420;Risträsk V; 64.73 ; 17.40 ;598;Nej; 9-147420-Risträsk_V.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/147420/period/corrected-archive/data.csv
+177920;Ritsem; 67.73 ; 17.47 ;521;Nej; 9-177920-Ritsem.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/177920/period/corrected-archive/data.csv
+177930;Ritsem A; 67.73 ; 17.47 ;541.214;Ja; 9-177930-Ritsem_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/177930/period/corrected-archive/data.csv
+65160;Ronneby-Bredåkra; 56.27 ; 15.27 ;58.2;Ja; 9-65160-Ronneby-Bredåkra.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/65160/period/corrected-archive/data.csv
+73480;Rångedala A; 57.78 ; 13.16 ;297.467;Ja; 9-73480-Rångedala_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/73480/period/corrected-archive/data.csv
+162790;Rödkallen; 65.31 ; 22.37 ;5;Nej; 9-162790-Rödkallen.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/162790/period/corrected-archive/data.csv
+96560;Sala A; 59.91 ; 16.68 ;56.575;Ja; 9-96560-Sala_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/96560/period/corrected-archive/data.csv
+178680;Saltoluokta; 67.38 ; 18.55 ;393;Nej; 9-178680-Saltoluokta.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/178680/period/corrected-archive/data.csv
+54230;Sandhammaren; 55.39 ; 14.19 ;4;Nej; 9-54230-Sandhammaren.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/54230/period/corrected-archive/data.csv
+54330;Simrishamn; 55.54 ; 14.36 ;13;Nej; 9-54330-Simrishamn.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/54330/period/corrected-archive/data.csv
+108100;Singö; 60.16 ; 18.74 ;12;Nej; 9-108100-Singö.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/108100/period/corrected-archive/data.csv
+139110;Skagsudde; 63.19 ; 19.02 ;13;Nej; 9-139110-Skagsudde.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/139110/period/corrected-archive/data.csv
+83270;Skara; 58.40 ; 13.45 ;119;Nej; 9-83270-Skara.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/83270/period/corrected-archive/data.csv
+83620;Skara; 58.40 ; 13.45 ;116;Nej; 9-83620-Skara.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/83620/period/corrected-archive/data.csv
+83240;Skara-Ekeberg; 58.40 ; 13.55 ;130;Nej; 9-83240-Skara-Ekeberg.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/83240/period/corrected-archive/data.csv
+83200;Skara-Stenum; 58.37 ; 13.52 ;130;Nej; 9-83200-Skara-Stenum.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/83200/period/corrected-archive/data.csv
+83260;Skara-Västerskog; 58.38 ; 13.33 ;105;Nej; 9-83260-Skara-Västerskog.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/83260/period/corrected-archive/data.csv
+151380;Skellefteå Flygplats; 64.62 ; 21.07 ;48;Ja; 9-151380-Skellefteå_Flygplats.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/151380/period/corrected-archive/data.csv
+54290;Skillinge A; 55.49 ; 14.31 ;4.016;Ja; 9-54290-Skillinge_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/54290/period/corrected-archive/data.csv
+124390;Skålan; 62.65 ; 14.17 ;452;Nej; 9-124390-Skålan.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/124390/period/corrected-archive/data.csv
+53200;Smygehuk; 55.34 ; 13.36 ;5;Nej; 9-53200-Smygehuk.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/53200/period/corrected-archive/data.csv
+84580;Snavlunda; 58.97 ; 14.90 ;144;Nej; 9-84580-Snavlunda.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/84580/period/corrected-archive/data.csv
+88580;Stabbo; 58.97 ; 18.45 ;7;Nej; 9-88580-Stabbo.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/88580/period/corrected-archive/data.csv
+98160;Stavsnäs Aut; 59.30 ; 18.71 ;1;Nej; 9-98160-Stavsnäs_Aut.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/98160/period/corrected-archive/data.csv
+154730;Stekenjokk A; 65.09 ; 14.51 ;1037.322;Ja; 9-154730-Stekenjokk_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/154730/period/corrected-archive/data.csv
+157720;Stensele; 65.06 ; 17.19 ;329;Nej; 9-157720-Stensele.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/157720/period/corrected-archive/data.csv
+54400;Stenshuvud; 55.66 ; 14.26 ;112;Nej; 9-54400-Stenshuvud.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/54400/period/corrected-archive/data.csv
+167860;Stenudden; 66.53 ; 17.67 ;453;Nej; 9-167860-Stenudden.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/167860/period/corrected-archive/data.csv
+98210;Stockholm; 59.34 ; 18.05 ;43.133;Ja; 9-98210-Stockholm.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/98210/period/corrected-archive/data.csv
+98230;Stockholm A; 59.34 ; 18.05 ;43.133;Ja; 9-98230-Stockholm_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/98230/period/corrected-archive/data.csv
+97400;Stockholm-Arlanda; 59.63 ; 17.95 ;42;Ja; 9-97400-Stockholm-Arlanda.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/97400/period/corrected-archive/data.csv
+97200;Stockholm-Bromma; 59.35 ; 17.95 ;14;Ja; 9-97200-Stockholm-Bromma.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/97200/period/corrected-archive/data.csv
+105220;Stora Spånsberget A; 60.38 ; 15.14 ;492.257;Ja; 9-105220-Stora_Spånsberget_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/105220/period/corrected-archive/data.csv
+158850;Storberg; 65.51 ; 18.95 ;453;Nej; 9-158850-Storberg.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/158850/period/corrected-archive/data.csv
+132620;Storlien; 63.32 ; 12.10 ;595;Nej; 9-132620-Storlien.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/132620/period/corrected-archive/data.csv
+132170;Storlien-Storvallen A; 63.28 ; 12.12 ;583.124;Ja; 9-132170-Storlien-Storvallen_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/132170/period/corrected-archive/data.csv
+132180;Storlien-Visjövalen; 63.30 ; 12.13 ;642;Nej; 9-132180-Storlien-Visjövalen.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/132180/period/corrected-archive/data.csv
+123480;Storsjö Kapell; 62.80 ; 13.07 ;580;Nej; 9-123480-Storsjö_Kapell.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/123480/period/corrected-archive/data.csv
+163920;Storöhamn; 65.73 ; 23.09 ;7;Nej; 9-163920-Storöhamn.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/163920/period/corrected-archive/data.csv
+81560;Strömstad; 58.93 ; 11.20 ;20;Nej; 9-81560-Strömstad.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/81560/period/corrected-archive/data.csv
+135520;Strömsund; 63.85 ; 15.59 ;373;Nej; 9-135520-Strömsund.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/135520/period/corrected-archive/data.csv
+53300;Sturup; 55.52 ; 13.38 ;72;Ja; 9-53300-Sturup.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/53300/period/corrected-archive/data.csv
+94580;Ställdalen; 59.93 ; 14.89 ;257;Nej; 9-94580-Ställdalen.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/94580/period/corrected-archive/data.csv
+159970;Suddesjaur; 65.90 ; 19.09 ;342;Nej; 9-159970-Suddesjaur.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/159970/period/corrected-archive/data.csv
+170790;Sudok; 66.30 ; 20.42 ;170;Nej; 9-170790-Sudok.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/170790/period/corrected-archive/data.csv
+127240;Sundsvall; 62.40 ; 17.27 ;35;Nej; 9-127240-Sundsvall.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/127240/period/corrected-archive/data.csv
+127230;Sundsvall-Råsta V; 62.43 ; 17.34 ;83;Nej; 9-127230-Sundsvall-Råsta_V.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/127230/period/corrected-archive/data.csv
+127310;Sundsvalls Flygplats; 62.52 ; 17.44 ;4;Ja; 9-127310-Sundsvalls_Flygplats.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/127310/period/corrected-archive/data.csv
+93520;Sunne A; 59.86 ; 13.12 ;108.947;Ja; 9-93520-Sunne_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/93520/period/corrected-archive/data.csv
+93340;Sutterhöjden; 59.58 ; 13.93 ;153;Nej; 9-93340-Sutterhöjden.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/93340/period/corrected-archive/data.csv
+98490;Svanberga A; 59.83 ; 18.63 ;14.821;Ja; 9-98490-Svanberga_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/98490/period/corrected-archive/data.csv
+81340;Svarteborg; 58.57 ; 11.56 ;70;Nej; 9-81340-Svarteborg.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/81340/period/corrected-archive/data.csv
+124020;Sveg; 62.02 ; 14.19 ;432;Nej; 9-124020-Sveg.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/124020/period/corrected-archive/data.csv
+124030;Sveg A; 62.05 ; 14.41 ;357.187;Ja; 9-124030-Sveg_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/124030/period/corrected-archive/data.csv
+99330;Svenska Björn Aut; 59.55 ; 20.02 ;1;Nej; 9-99330-Svenska_Björn_Aut.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/99330/period/corrected-archive/data.csv
+99270;Svenska Högarna; 59.44 ; 19.50 ;10.145;Ja; 9-99270-Svenska_Högarna.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/99270/period/corrected-archive/data.csv
+99280;Svenska Högarna A; 59.44 ; 19.50 ;11.811;Ja; 9-99280-Svenska_Högarna_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/99280/period/corrected-archive/data.csv
+140200;Sydostbrotten Aut; 63.38 ; 20.10 ;24;Nej; 9-140200-Sydostbrotten_Aut.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/140200/period/corrected-archive/data.csv
+113410;Särna; 61.71 ; 13.13 ;437;Nej; 9-113410-Särna.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/113410/period/corrected-archive/data.csv
+71470;Säve; 57.78 ; 11.88 ;20;Nej; 9-71470-Säve.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/71470/period/corrected-archive/data.csv
+82260;Såtenäs; 58.43 ; 12.71 ;55.1;Ja; 9-82260-Såtenäs.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/82260/period/corrected-archive/data.csv
+99450;Söderarm; 59.75 ; 19.41 ;5;Nej; 9-99450-Söderarm.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/99450/period/corrected-archive/data.csv
+117160;Söderhamn A; 61.27 ; 17.10 ;26;Nej; 9-117160-Söderhamn_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/117160/period/corrected-archive/data.csv
+178970;Tarfala A; 67.91 ; 18.61 ;1143.653;Ja; 9-178970-Tarfala_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/178970/period/corrected-archive/data.csv
+169790;Tjåkaape Mo; 66.31 ; 19.21 ;580.4;Ja; 9-169790-Tjåkaape_Mo.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/169790/period/corrected-archive/data.csv
+189760;Torneträsk; 68.22 ; 19.71 ;393;Nej; 9-189760-Torneträsk.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/189760/period/corrected-archive/data.csv
+126290;Torpshammar A; 62.49 ; 16.28 ;99;Ja; 9-126290-Torpshammar_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/126290/period/corrected-archive/data.csv
+71430;Torslanda; 57.72 ; 11.78 ;3;Nej; 9-71430-Torslanda.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/71430/period/corrected-archive/data.csv
+63600;Torup; 56.96 ; 13.07 ;85;Nej; 9-63600-Torup.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/63600/period/corrected-archive/data.csv
+63590;Torup A; 56.95 ; 13.06 ;132.532;Ja; 9-63590-Torup_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/63590/period/corrected-archive/data.csv
+82190;Trollhättans Flygplats; 58.31 ; 12.33 ;43;Nej; 9-82190-Trollhättans_Flygplats.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/82190/period/corrected-archive/data.csv
+71360;Trubaduren Aut; 57.60 ; 11.64 ;1;Nej; 9-71360-Trubaduren_Aut.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/71360/period/corrected-archive/data.csv
+122260;Tännäs A; 62.45 ; 12.67 ;723.013;Ja; 9-122260-Tännäs_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/122260/period/corrected-archive/data.csv
+155910;Tärnaby; 65.72 ; 15.25 ;450;Nej; 9-155910-Tärnaby.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/155910/period/corrected-archive/data.csv
+72090;Ullared A; 57.11 ; 12.77 ;122.356;Ja; 9-72090-Ullared_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/72090/period/corrected-archive/data.csv
+73470;Ulricehamn; 57.77 ; 13.47 ;292;Nej; 9-73470-Ulricehamn.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/73470/period/corrected-archive/data.csv
+64650;Ulvö; 56.60 ; 14.65 ;145;Nej; 9-64650-Ulvö.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/64650/period/corrected-archive/data.csv
+140500;Umeå; 63.83 ; 20.29 ;10;Nej; 9-140500-Umeå.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/140500/period/corrected-archive/data.csv
+140480;Umeå Flygplats; 63.79 ; 20.29 ;14;Ja; 9-140480-Umeå_Flygplats.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/140480/period/corrected-archive/data.csv
+108170;Understen; 60.28 ; 18.92 ;12;Nej; 9-108170-Understen.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/108170/period/corrected-archive/data.csv
+65020;Ungskär; 56.04 ; 15.81 ;2;Nej; 9-65020-Ungskär.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/65020/period/corrected-archive/data.csv
+97520;Uppsala; 59.86 ; 17.63 ;13;Nej; 9-97520-Uppsala.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/97520/period/corrected-archive/data.csv
+97510;Uppsala Aut; 59.85 ; 17.63 ;23.453;Ja; 9-97510-Uppsala_Aut.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/97510/period/corrected-archive/data.csv
+97530;Uppsala Flygplats; 59.90 ; 17.59 ;20.6;Ja; 9-97530-Uppsala_Flygplats.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/97530/period/corrected-archive/data.csv
+64400;Uråsa; 56.68 ; 14.95 ;167;Nej; 9-64400-Uråsa.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/64400/period/corrected-archive/data.csv
+55570;Utklippan; 55.95 ; 15.70 ;6;Nej; 9-55570-Utklippan.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/55570/period/corrected-archive/data.csv
+107450;Utvalnäs Aut; 60.75 ; 17.36 ;5;Nej; 9-107450-Utvalnäs_Aut.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/107450/period/corrected-archive/data.csv
+88570;Utö; 58.95 ; 18.27 ;40;Nej; 9-88570-Utö.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/88570/period/corrected-archive/data.csv
+169860;Vajmat V; 66.51 ; 19.68 ;325;Nej; 9-169860-Vajmat_V.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/169860/period/corrected-archive/data.csv
+86130;Valdemarsvik; 58.21 ; 16.58 ;10;Nej; 9-86130-Valdemarsvik.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/86130/period/corrected-archive/data.csv
+72080;Varberg; 57.11 ; 12.27 ;20;Nej; 9-72080-Varberg.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/72080/period/corrected-archive/data.csv
+160960;Vidsel; 65.88 ; 20.13 ;180;Ja; 9-160960-Vidsel.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/160960/period/corrected-archive/data.csv
+160970;Vidsel Mo; 65.88 ; 20.15 ;182.566;Ja; 9-160970-Vidsel_Mo.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/160970/period/corrected-archive/data.csv
+137030;Viksbäcken; 63.05 ; 17.75 ;6;Nej; 9-137030-Viksbäcken.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/137030/period/corrected-archive/data.csv
+107020;Viksta; 60.07 ; 17.62 ;103;Nej; 9-107020-Viksta.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/107020/period/corrected-archive/data.csv
+146350;Vilhelmina A; 64.58 ; 16.84 ;348.198;Ja; 9-146350-Vilhelmina_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/146350/period/corrected-archive/data.csv
+94170;Villingsberg; 59.28 ; 14.70 ;148;Nej; 9-94170-Villingsberg.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/94170/period/corrected-archive/data.csv
+156940;Vindel-Björkheden; 65.82 ; 16.71 ;350;Nej; 9-156940-Vindel-Björkheden.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/156940/period/corrected-archive/data.csv
+149120;Vindeln-Sunnansjönäs; 64.14 ; 19.76 ;237;Ja; 9-149120-Vindeln-Sunnansjönäs.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/149120/period/corrected-archive/data.csv
+71380;Vinga A; 57.63 ; 11.60 ;18.205;Ja; 9-71380-Vinga_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/71380/period/corrected-archive/data.csv
+95030;Vingåker; 59.08 ; 15.82 ;60;Nej; 9-95030-Vingåker.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/95030/period/corrected-archive/data.csv
+106500;Vintjärn; 60.83 ; 16.06 ;348;Nej; 9-106500-Vintjärn.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/106500/period/corrected-archive/data.csv
+78390;Visby; 57.64 ; 18.29 ;28;Nej; 9-78390-Visby.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/78390/period/corrected-archive/data.csv
+78400;Visby Flygplats; 57.66 ; 18.34 ;42;Ja; 9-78400-Visby_Flygplats.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/78400/period/corrected-archive/data.csv
+84060;Visingsö; 58.09 ; 14.40 ;110;Nej; 9-84060-Visingsö.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/84060/period/corrected-archive/data.csv
+65310;Vissefjärda; 56.51 ; 15.62 ;114;Nej; 9-65310-Vissefjärda.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/65310/period/corrected-archive/data.csv
+166870;Vuoggatjålme; 66.58 ; 16.35 ;500;Nej; 9-166870-Vuoggatjålme.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/166870/period/corrected-archive/data.csv
+81350;Väderöarna A; 58.58 ; 11.07 ;22.356;Ja; 9-81350-Väderöarna_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/81350/period/corrected-archive/data.csv
+81620;Väderöbod; 58.55 ; 11.03 ;7;Nej; 9-81620-Väderöbod.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/81620/period/corrected-archive/data.csv
+82230;Vänersborg; 58.36 ; 12.36 ;50;Nej; 9-82230-Vänersborg.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/82230/period/corrected-archive/data.csv
+97620;Vängsö; 59.12 ; 17.20 ;15;Nej; 9-97620-Vängsö.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/97620/period/corrected-archive/data.csv
+139540;Vännäs; 63.92 ; 19.70 ;87;Nej; 9-139540-Vännäs.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/139540/period/corrected-archive/data.csv
+83340;Västerplana; 58.56 ; 13.35 ;128;Nej; 9-83340-Västerplana.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/83340/period/corrected-archive/data.csv
+76470;Västervik; 57.72 ; 16.47 ;33;Nej; 9-76470-Västervik.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/76470/period/corrected-archive/data.csv
+96350;Västerås; 59.62 ; 16.55 ;10;Nej; 9-96350-Västerås.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/96350/period/corrected-archive/data.csv
+96370;Västerås-Hässlö; 59.59 ; 16.63 ;6;Nej; 9-96370-Västerås-Hässlö.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/96370/period/corrected-archive/data.csv
+138070;Västmarkum A; 63.12 ; 18.25 ;141.392;Ja; 9-138070-Västmarkum_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/138070/period/corrected-archive/data.csv
+107530;Västra Banken Aut; 60.88 ; 17.93 ;25;Nej; 9-107530-Västra_Banken_Aut.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/107530/period/corrected-archive/data.csv
+64520;Växjö; 56.87 ; 14.80 ;166;Nej; 9-64520-Växjö.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/64520/period/corrected-archive/data.csv
+64510;Växjö A; 56.85 ; 14.83 ;198.861;Ja; 9-64510-Växjö_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/64510/period/corrected-archive/data.csv
+64560;Växjö-Kronoberg; 56.93 ; 14.73 ;182;No; 9-64560-Växjö-Kronoberg.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/64560/period/corrected-archive/data.csv
+82010;Vårgårda-Hägrunga; 58.02 ; 12.83 ;148;No; 9-82010-Vårgårda-Hägrunga.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/82010/period/corrected-archive/data.csv
+53260;City; 55.44 ; 13.83 ;32;No; 9-53260-City.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/53260/period/corrected-archive/data.csv
+114150;Älvdalen 1; 61.25 ; 14.08 ;255;No; 9-114150-Älvdalen_1.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/114150/period/corrected-archive/data.csv
+114160;Älvdalen 2; 61.25 ; 14.03 ;250;No; 9-114160-Älvdalen_2.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/114160/period/corrected-archive/data.csv
+114140;Älvdalen A; 61.25 ; 14.04 ;251,633;Yes; 9-114140-Älvdalen_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/114140/period/corrected-archive/data.csv
+161910;Älvsbyn m; 65.68 ; 20.96 ;50;No; 9-161910-Älvsbyn_m.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/161910/period/corrected-archive/data.csv
+73690;Espered; 57.93 ; 13.18 ;294;No; 9-73690-Espered.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/73690/period/corrected-archive/data.csv
+83540;Åkershus; 58.90 ; 13.25 ;50;No; 9-83540-Åkershus.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/83540/period/corrected-archive/data.csv
+134520;The lock; 63.87 ; 14.61 ;450;No; 9-134520-The_lock.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/134520/period/corrected-archive/data.csv
+106580;Countermeasures; 60.96 ; 16.46 ;145;No; 9-106580-Countermeasures.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/106580/period/corrected-archive/data.csv
+92030;Åmål; 59.05 ; 12.70 ;60;No; 9-92030-Åmål.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/92030/period/corrected-archive/data.csv
+82090;Åsbräcka-Torpabron V; 58.20 ; 12.15 ;17;No; 9-82090-Åsbräcka-Torpabron_V.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/82090/period/corrected-archive/data.csv
+147100;Åsele; 64.16 ; 17.37 ;326;No; 9-147100-Åsele.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/147100/period/corrected-archive/data.csv
+147090;Åsele A; 64.17 ; 17.32 ;307,712;Yes; 9-147090-Åsele_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/147090/period/corrected-archive/data.csv
+94050;Åtorp; 59.10 ; 14.37 ;98.8;Yes; 9-94050-Åtorp.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/94050/period/corrected-archive/data.csv
+82650;Ödebyn; 58.78 ; 12.18 ;150;No; 9-82650-Ödebyn.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/82650/period/corrected-archive/data.csv
+82660;Ödskölt; 58.85 ; 12.15 ;175;No; 9-82660-Ödskölt.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/82660/period/corrected-archive/data.csv
+77220;Öland's northern cape; 57.37 ; 17.10 ;2,039;Yes; 9-77220-Öland's_northern_cape.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/77220/period/corrected-archive/data.csv
+77210;Öland's northern cape A; 57.37 ; 17.10 ;2,762;Yes; 9-77210-Öland's_northern_cape_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/77210/period/corrected-archive/data.csv
+66040;Öland's southern base Aut; 56.07 ; 16.68 ;1;No; 9-66040-Öland's_southern_base_Aut.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/66040/period/corrected-archive/data.csv
+66120;Öland's southern cape; 56.20 ; 16.40 ;3;No; 9-66120-Öland's_southern_cape.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/66120/period/corrected-archive/data.csv
+66110;Öland's southern cape A; 56.20 ; 16.40 ;1.53;Yes; 9-66110-Öland's_southern_cape_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/66110/period/corrected-archive/data.csv
+95170;Örebro Aut; 59.27 ; 15.27 ;23;No; 9-95170-Örebro_Aut.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/95170/period/corrected-archive/data.csv
+95130;Örebro Airport; 59.23 ; 15.05 ;53;Yes; 9-95130-Örebro_Airport.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/95130/period/corrected-archive/data.csv
+95160;Örebro-Ekeby; 59.24 ; 15.29 ;31;No; 9-95160-Örebro-Ekeby.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/95160/period/corrected-archive/data.csv
+108640;Öregrund; 60.33 ; 18.43 ;7;No; 9-108640-Öregrund.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/108640/period/corrected-archive/data.csv
+138240;Örnsköldsvik Airport; 63.41 ; 18.98 ;108;Yes; 9-138240-Örnsköldsvik_Airport.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/138240/period/corrected-archive/data.csv
+108320;Örskär A; 60.53 ; 18.37 ;6,539;Yes; 9-108320-Örskär_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/108320/period/corrected-archive/data.csv
+78280;Östergarn; 57.45 ; 18.98 ;11;No; 9-78280-Östergarn.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/78280/period/corrected-archive/data.csv
+134100;Östersund; 63.17 ; 14.68 ;345;No; 9-134100-Östersund.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/134100/period/corrected-archive/data.csv
+102200;Östmark-Rännberg; 60.33 ; 12.68 ;198;No; 9-102200-Östmark-Rännberg.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/102200/period/corrected-archive/data.csv
+102210;Östmark-Röjdåsen; 60.35 ; 12.65 ;308;No; 9-102210-Östmark-Röjdåsen.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/102210/period/corrected-archive/data.csv
+172790;Överkalix-Svartbyn; 66.26 ; 22.84 ;46;No; 9-172790-Överkalix-Svartbyn.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/172790/period/corrected-archive/data.csv
+172770;Överkalix-Svartbyn A; 66.26 ; 22.84 ;61,024;Yes; 9-172770-Överkalix-Svartbyn_A.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/9/station/172770/period/corrected-archive/data.csv

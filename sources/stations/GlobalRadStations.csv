@@ -1,0 +1,19 @@
+Id;Name;Latitude;Longitude;Height (m);Active; GlobalRStation ; GlobalRLink 
+105285;Borlänge Sol;60.49;15.43;168;Yes;11-105285-Borlänge_Sol.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/GlobalRLink/station/105285/period/corrected-archive/data.csv
+71415;Gothenburg Sol;57.69;11.98;84,824;Yes;11-71415-Gothenburg_Sol.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/GlobalRLink/station/71415/period/corrected-archive/data.csv
+68545;Hoburg Sol;56.92;18.15;36;Yes;11-68545-Hoburg_Sol.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/GlobalRLink/station/68545/period/corrected-archive/data.csv
+93235;Karlstad Sol;59.36;13.47;46;Yes;11-93235-Karlstad_Sol.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/GlobalRLink/station/93235/period/corrected-archive/data.csv
+180025;Kiruna Sol;67.84;20.41;424;Yes;11-180025-Kiruna_Sol.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/GlobalRLink/station/180025/period/corrected-archive/data.csv
+162015;Luleå Sol;65.54;22.11;26;Yes;11-162015-Luleå_Sol.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/GlobalRLink/station/162015/period/corrected-archive/data.csv
+53445;Lund Sol;55.71;13.21;90;Yes;11-53445-Lund_Sol.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/GlobalRLink/station/53445/period/corrected-archive/data.csv
+81525;Nordkoster Sol;58.89;11;33;Yes;11-81525-Nordkoster_Sol.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/GlobalRLink/station/81525/period/corrected-archive/data.csv
+86655;Norrköping Sol;58.58;16.15;53;Yes;11-86655-Norrköping_Sol.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/GlobalRLink/station/86655/period/corrected-archive/data.csv
+98735;Stockholm Sol;59.35;18.06;41;Yes;11-98735-Stockholm_Sol.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/GlobalRLink/station/98735/period/corrected-archive/data.csv
+132165;Storlien-Visjövalen Sol;63.3;12.12;646;Yes;11-132165-Storlien-Visjövalen_Sol.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/GlobalRLink/station/132165/period/corrected-archive/data.csv
+99275;Svenska Högarna Sol;59.44;19.5;11,688;Yes;11-99275-Svenska_Högarna_Sol.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/GlobalRLink/station/99275/period/corrected-archive/data.csv
+178985;Tarfala Sol;67.91;18.61;1144;Yes;11-178985-Tarfala_Sol.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/GlobalRLink/station/178985/period/corrected-archive/data.csv
+140615;Umeå Sol;63.81;20.24;23;Yes;11-140615-Umeå_Sol.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/GlobalRLink/station/140615/period/corrected-archive/data.csv
+78645;Visby Sol;57.67;18.34;55;Yes;11-78645-Visby_Sol.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/GlobalRLink/station/78645/period/corrected-archive/data.csv
+64565;Växjö Sol;56.93;14.73;182;Yes;11-64565-Växjö_Sol.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/GlobalRLink/station/64565/period/corrected-archive/data.csv
+77215;Öland's northern cape Sol;57.37;17.1;2;Yes;11-77215-Öland's_northern_cape_Sol.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/GlobalRLink/station/77215/period/corrected-archive/data.csv
+134615;Östersund Sol;63.2;14.48;372;Yes;11-134615-Östersund_Sol.csv ;https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/GlobalRLink/station/134615/period/corrected-archive/data.csv
