@@ -3,7 +3,7 @@ trashcan/
 smhi_process/distance_matrix/
 smhi_process/sites/
 smhi_process/sites/ulf_sites_simple.csv
-
+scripts/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
