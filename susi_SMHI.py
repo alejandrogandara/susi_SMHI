@@ -4,10 +4,11 @@ import requests
 from pathlib import Path
 import numpy as np
 
-def getWeather(site, x, y, date_start, date_end, outputF, stations_nearby):
+def getWeather(site, x, y, start_date, end_date, outputF, workingFolder, stations_nearby):
     output_folder = mk(outputF)
-
-    wFile = checkWFile(site, x, y, date_start, date_end, output_folder)
+    start_date = pd.to_datetime(start_date).strftime('%Y-%m-%d')
+    end_date = pd.to_datetime(end_date).strftime('%Y-%m-%d')
+    wFile = checkWFile(site, x, y, start_date, end_date, output_folder)
     if wFile is not False:
         return wFile
 
@@ -24,7 +25,8 @@ def getWeather(site, x, y, date_start, date_end, outputF, stations_nearby):
     distanceMatrix = {}
     for i in wStations.index:
         path = wStations['stations_file'][i]
-        stations = pd.read_csv(f'smhi_process\stations\{path}', sep=';')
+        stations = pd.read_csv(f'{workingFolder}/susi_SMHI/smhi_process/stations/{path}', sep=';')
+        #stations = pd.read_csv(f'susi_SMHI/smhi_process/stations/{path}', sep=';')
         distanceMatrix[wStations['stationType'][i]] = calcDistanceMatrix(site, x, y, stations)
 
     # SMHI api
@@ -38,7 +40,7 @@ def getWeather(site, x, y, date_start, date_end, outputF, stations_nearby):
     #Syntax
     # GET /api/version/{version}/parameter/{parameter}.{ext}?measuringStations={measuringStations}
     try:
-        sw, stReaded = integrateData(site, date_start, date_end, wStations, distanceMatrix, stations_nearby)
+        sw, stReaded = integrateData(site, start_date, end_date, wStations, distanceMatrix, workingFolder, stations_nearby)
     except Exception as e: 
         print(e)
         return
@@ -82,33 +84,34 @@ def getWeather(site, x, y, date_start, date_end, outputF, stations_nearby):
     #write the data missing value table
     summary.to_csv(output_folder+site+'_weather'+'_summary.csv', sep=';', index=False)
     stReaded.to_csv(output_folder+site+'_weather'+'_stReaded.csv', sep=';', index=False)
-
-    integratedData.to_csv(output_folder+site+'_weather.csv', sep=';', index=False)
+    wfile = output_folder+site+'_weather.csv'
+    integratedData.to_csv(wfile, sep=';', index=False)
+    print('\n')
     print(summary)
-    print(f"\n site {site}: \tOK -- from { date_start} to {date_end} -- ({len(sw)} days, {round((len(sw) / 365.25))} years) max {stations_nearby} stations nearby")
+    print(f"\n site {site}: \tOK -- from { start_date} to {end_date} -- ({len(sw)} days, {round((len(sw) / 365.25))} years) max {stations_nearby} stations nearby")
     #except: print(f"site {site}: \tERROR")
-    return integratedData
+    return wfile
 
 def mk(path):
     if not os.path.exists(path): os.mkdir(path)
     return path
 
-def checkWFile(site, x, y, date_start, date_end, output_folder):
+def checkWFile(site, x, y, start_date, end_date, output_folder):
     wfile = f'{output_folder}{site}_weather.csv'
     if os.path.exists(wfile):
         weatherFile = pd.read_csv(wfile, sep=';')
         if (round(weatherFile.latitude.mean(),2) == round(y,2)) & (round(weatherFile.longitude.mean(),2) == round(x,2)):
-            wfile_date_start = weatherFile.aika.min()
-            wfile_date_end = weatherFile.aika.max()
-            param_date_start = int(pd.to_datetime(date_start).strftime('%Y%m%d'))
-            param__date_end = int(pd.to_datetime(date_end).strftime('%Y%m%d'))
+            wfile_start_date = weatherFile.aika.min()
+            wfile_end_date = weatherFile.aika.max()
+            param_start_date = int(pd.to_datetime(start_date).strftime('%Y%m%d'))
+            param__end_date = int(pd.to_datetime(end_date).strftime('%Y%m%d'))
 
-            if (wfile_date_start <= param_date_start) & (wfile_date_end >= param__date_end):
+            if (wfile_start_date <= param_start_date) & (wfile_end_date >= param__end_date):
                 mv, pv = missing_data(weatherFile)
                 print(mv.to_string(index=False))
-                print(f'\nThe weather file {site} from {param_date_start} to {param__date_end} is ready to go')
+                print(f'\nThe weather file {site} from {param_start_date} to {param__end_date} is ready to go')
                 
-                return weatherFile
+                return wfile
     else: 
         return False
 
@@ -121,17 +124,11 @@ def calcDistanceMatrix(site, x, y, stations):
     dm = dm.reset_index(drop=True)
     return dm
 
-def readData(station, parameterLabel, date_start, date_end, wStations, version = 1.0, ext = 'csv'):
+def readData(station, parameterLabel, start_date, end_date, wStations, workingFolder, version = 1.0, ext = 'csv'):
     #print(f"{station}.{ext}")
     #print( wStations.loc[wStations.varType == parameterLabel])
     entryPoint = 'https://opendata-download-metobs.smhi.se/api'
-    
-    source_path = Path(__file__).resolve()
-    source_dir = source_path.parent
-    #source_dir = "O:/projects/forestProductivity/git/susi-swe/susi_SMHI"
-    WFolder = f'{source_dir}/smhi_process/'
-    dumpFolder = mk(f'{WFolder}dump/')
-
+    dumpFolder = mk(f'{workingFolder}/susi_SMHI/smhi_process/dump/')
 
     parameter = wStations.loc[wStations.varType == parameterLabel].parameter.item() #assign code to parameter label
     #reads the air pressure data, and returns a dataframe with daily average values
@@ -178,16 +175,16 @@ def readData(station, parameterLabel, date_start, date_end, wStations, version =
     ds.set_index('Datum', drop=True, inplace=True)
 
     # some tyding
-    try: ds = ds.loc[(ds.index >= date_start) & (ds.index <= date_end)]
+    try: ds = ds.loc[(ds.index >= start_date) & (ds.index <= end_date)]
     except: 
-        ds = pd.DataFrame({'Datum':date_start, parameterLabel:None})
+        ds = pd.DataFrame({'Datum':start_date, parameterLabel:None})
         ds.set_index('Datum', drop=True, inplace=True)
 
     ds = ds[~ds.index.duplicated(keep='first')]  #delete the duplicated records
 
     return ds
 
-def integrateData(site, date_start, date_end, wStations, distanceMatrix, stations_nearby=1):
+def integrateData(site, start_date, end_date, wStations, distanceMatrix, workingFolder, stations_nearby=1):
 # the function iterates on varType ["hpa", "radiation", "rainfall", "t_mean", "t_max", "t_min"]
 # depends on the varType it selects the station type group, ex t_mean uses Temperature station
 # then selects n stations nearby, gets the data and integrate it
@@ -202,14 +199,14 @@ def integrateData(site, date_start, date_end, wStations, distanceMatrix, station
         dmType = distanceMatrix[st]  #filter the distance matrix by station type
         dmSite=dmType.loc[dmType["InputID"] == site].sort_values(by="Distance").head(stations_nearby)  #gets the top n nearest sations for the site
         stationData = {}
-        stationDataGaps = pd.DataFrame(data = {varType: None, 'Datum':pd.date_range(date_start, date_end, freq="D").strftime('%Y-%m-%d')})
+        stationDataGaps = pd.DataFrame(data = {varType: None, 'Datum':pd.date_range(start_date, end_date, freq="D").strftime('%Y-%m-%d')})
         stationDataGaps.set_index('Datum', drop=True, inplace=True)
 
         for stationPosition in range(stations_nearby):   #using for cycle
 #        stationPosition = 0
 #        while True: 
             stationID = dmSite["TargetID"].iloc[stationPosition]
-            stationData[stationPosition] = readData(stationID, varType, date_start, date_end, wStations) # reads station data
+            stationData[stationPosition] = readData(stationID, varType, start_date, end_date, wStations, workingFolder) # reads station data
             stationDataGaps = stationDataGaps.combine_first(stationData[stationPosition])
             if stationDataGaps.isnull().sum(axis = 1).sum() == 0: break
 #            stationPosition += 1
@@ -263,3 +260,4 @@ def calc_hPa(ds, stReaded):
     stReaded = pd.concat([st_hpa, stReaded] , axis=0, ignore_index=False)
     stReaded.set_index('varType', drop=False ,inplace=True)
     return ds, stReaded
+#ttt
